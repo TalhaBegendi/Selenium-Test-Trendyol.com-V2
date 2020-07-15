@@ -8,22 +8,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 using System.Threading;
 using OpenQA.Selenium.Support.PageObjects;
-//BİLGİLER
-//using OpenQA.Selenium.Chrome;
-//using OpenQA.Selenium.Support;
-//using NUnit.Framework;
-//using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-//Webdriver = new ChromeDriver(@"D:\chromedriver_win32");
-//public static By girisTestAssert = By.XPath(".//*[@id='logged-in-container']/span[text()[contains(.,'Hesabım')]]");
-//.//*[@class='fltr-item-text'][text()="0 TL - 30 TL"]
-
-// GİRİS SONRASI UYARI ICIN KAPATMA KODU
-//Console.WriteLine("Giriş Yapıldı");
-//webDriver.FindElement(By.XPath(".//*[@class='modal-content notificationPopup']/div[1]")).Click();
-//webDriver.FindElement(By.XPath(".//*[@class='modal-close']")).Click();
-//BİLGİ
-//driver.FindElement(By.XPath("//button[@type='button'][text()='Hemen AL!']")).Click();
 namespace TalhaBegendi
 {
     public static class kontrolOzellikleri
