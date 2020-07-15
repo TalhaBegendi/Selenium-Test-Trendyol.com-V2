@@ -8,15 +8,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 using System.Threading;
 //TALHA BEĞENDİ
-//using OpenQA.Selenium.Chrome;
-//using OpenQA.Selenium.Support;
-//using NUnit.Framework;
-//using Microsoft.VisualStudio.TestTools.UnitTesting;
-//public void WaitTime()
-//{
-//WebDriverWait webDriverWait = new WebDriverWait(webDriver, TimeSpan.FromSeconds(100));
-//}
-//element = wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementExists(kontrolOzellikleri.sifreGiris));
+
 namespace TalhaBegendi
 {
     public class TrendyolPomMethods
